@@ -29,15 +29,70 @@ The yellow point always stays in the same place until the character reaches it. 
 * 9 : Ball (Going **horizontally** left)
 * 10 : Ball (Going **horizontally** right)
 
-|  0  |  0  |  0  |  0  |  0  |  -1  |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|  0  |  0  |  9  |  0  |  0  |  0  |
-|  0  |  0  |  0  |  0  |  0  |  5  |
-|  0  |  0  |  0  |  0  |  0  |  0  |
-|  0  |  1  |  0  |  0  |  0  |  0  |
-|  0  |  3  |  0  |  7  |  0  |  0  |
-|  0  |  0  |  0  |  0  |  0  |  0  |
+<div style="display: flex; align-items: flex-start;">
+    <div style="margin-right: 20px;">
+        <table>
+            <tr>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>-1</td>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>0</td>
+                <td>9</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>1</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>3</td>
+                <td>0</td>
+                <td>7</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <img src="Pics/pic1.png" alt="pic1" width="278" height="300"/>
+    </div>
+</div>
 
-
-<img src="Pics/pic1.png" alt="pic1" width="278" height="300"/>
 
