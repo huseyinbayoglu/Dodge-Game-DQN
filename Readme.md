@@ -3,6 +3,11 @@
 This project is an example of DQN algorithm. I trained an agent that playing 2D dodge game
 
 
+<video src="[LINK](https://github.com/user-attachments/assets/3c4d2818-8a77-4a91-80d8-50e3e04f1c14)" controls="controls" style="max-width: 730px;">
+</video>
+
+
+
 
 ## Environment
 In 'game.py', I defined the game and the rewards. This is a dodge game where balls move diagonally, vertically, or horizontally. The goal of the game is to reach the yellow point without colliding with any balls.
