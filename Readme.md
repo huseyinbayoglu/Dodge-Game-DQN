@@ -3,8 +3,7 @@
 This project is an example of DQN algorithm. I trained an agent that playing 2D dodge game
 
 
-<video src="[LINK](https://github.com/user-attachments/assets/3c4d2818-8a77-4a91-80d8-50e3e04f1c14)" controls="controls" style="max-width: 730px;">
-</video>
+![name](https://github.com/user-attachments/assets/5aba736a-05c9-45a5-adf7-3cd500f94c6b)
 
 
 
